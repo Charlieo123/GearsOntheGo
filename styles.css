@@ -4,6 +4,9 @@ body {
     background-color: #f0f0f0;
 }
 
+h2 {
+    color: black;
+}
 .header {
     background: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
     font-size: 18.5px;
